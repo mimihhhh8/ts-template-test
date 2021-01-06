@@ -2,7 +2,9 @@
 从零一步一步搭建TypeScript+webpack4开发环境 参考文章（https://segmentfault.com/a/1190000021703736）
 
 1、安装依赖 npm i
+
 2、npm run build 打包 打包之后的文件dist/dist.mim.js
+
 3、使用
 （1）`<!DOCTYPE html>
       <html lang="en">
