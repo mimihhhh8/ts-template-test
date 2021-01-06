@@ -6,7 +6,8 @@
 2、npm run build 打包 打包之后的文件dist/dist.mim.js
 
 3、使用
-（1）`<!DOCTYPE html>
+（1）
+      `<!DOCTYPE html>
       <html lang="en">
       <head>
         <meta charset="UTF-8">
@@ -21,4 +22,5 @@
         console.log(gde,'你好呀')
       </script>
       </html>`
- (2) import {src/index.ts导出的函数名、变量名、类名} from 'dist.min.js'
+ (2) 
+ `import {src/index.ts导出的函数名、变量名、类名} from 'dist.min.js'`
