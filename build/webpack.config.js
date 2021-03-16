@@ -8,7 +8,7 @@ module.exports = {
     output: {
         filename: "dist.min.js",
         path: path.resolve(__dirname, '../dist'),
-        library: 'gde',
+        library: 'result',
     },
     resolve: {
         extensions: ['.ts','tsx','.js']
